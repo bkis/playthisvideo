@@ -1,7 +1,7 @@
 # playthisvideo
 
-... does just that: Play the video file located at the URL specified via the hash in the window URL:
+... does just that: Play the video file located at the URL specified via the hash in the window URL. Here, have an example:
 
-    https://example.com/playthisvideo#https://video.server.com/video.mp4
+    https://bkis.github.io/playthisvideo/#https://upload.wikimedia.org/wikipedia/commons/3/3f/Okapia_johnstoni5.ogv
 
 Admittedly ugly, arguably useful!
