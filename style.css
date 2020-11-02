@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    color: #9a9a9a;
+}
+
+#page-container {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 768px;
+}
+
+#video, #video-url {
+    margin: .5rem;
+}
+
+#video-info {
+    margin-top: 1rem;
+    font-style: italic;
+}
+
+#video-error {
+    color: #f55;
+}
